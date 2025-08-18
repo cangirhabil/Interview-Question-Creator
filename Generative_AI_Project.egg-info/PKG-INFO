@@ -1,5 +1,8 @@
-Metadata-Version: 2.1
-Name: Generative-AI-Project
+Metadata-Version: 2.4
+Name: Interactive_Generative_AI_Project
+Summary: A project that allows users to interact with generative AI models.
 Version: 0.0.0
-Author: Boktiar Ahmed Bappy
-Author-email: entbappy73@gmail.com
+Author: Habil Cangir
+Author-email: habilcangir@gmail.com
+Dynamic: author
+Dynamic: author-email
